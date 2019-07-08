@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|DM+Serif+Display|DM+Serif+Text|Rubik+Mono+One|Russo+One&display=swap');
+
+.fonts_sample{
+  font-family: 'DM Serif Text', serif;
+  font-family: 'DM Serif Display', serif;
+  font-family: 'Russo One', sans-serif;
+  font-family: 'Rubik Mono One', sans-serif;
+  font-family: 'Anton', sans-serif;
+}
